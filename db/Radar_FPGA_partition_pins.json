@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_trig",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD4[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD5[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outputBCD5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_echo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
