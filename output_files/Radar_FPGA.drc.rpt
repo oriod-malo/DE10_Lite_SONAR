@@ -1,0 +1,65 @@
+Design Assistant report for Radar_FPGA
+Wed Feb 08 19:35:35 2023
+Quartus Prime Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Design Assistant Summary
+  3. Design Assistant Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2016  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-----------------------------------------------------------------------+
+; Design Assistant Summary                                              ;
++-----------------------------------+-----------------------------------+
+; Design Assistant Status           ; Failed - Wed Feb 08 19:35:35 2023 ;
+; Revision Name                     ; Radar_FPGA                        ;
+; Top-level Entity Name             ; Radar_FPGA                        ;
+; Family                            ; MAX 10                            ;
+; Total Critical Violations         ; 0                                 ;
+; Total High Violations             ; 0                                 ;
+; Total Medium Violations           ; 0                                 ;
+; Total Information only Violations ; 0                                 ;
++-----------------------------------+-----------------------------------+
+
+
++---------------------------+
+; Design Assistant Messages ;
++---------------------------+
+Info: *******************************************************************
+Info: Running Quartus Prime Design Assistant
+    Info: Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+    Info: Processing started: Wed Feb 08 19:35:34 2023
+Info: Command: quartus_drc --read_settings_files=off --write_settings_files=off Radar_FPGA -c Radar_FPGA
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Error (12595): Design Assistant information: Design Assistant does not support current family.
+Error: Quartus Prime Design Assistant was unsuccessful. 1 error, 1 warning
+    Error: Peak virtual memory: 4594 megabytes
+    Error: Processing ended: Wed Feb 08 19:35:35 2023
+    Error: Elapsed time: 00:00:01
+    Error: Total CPU time (on all processors): 00:00:01
+
+

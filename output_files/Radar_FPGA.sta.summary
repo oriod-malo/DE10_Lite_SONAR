@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'i_CLK'
+Slack : 5.016
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'i_echo'
+Slack : 11.284
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'i_CLK'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'i_echo'
+Slack : 3.157
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'i_CLK'
+Slack : 13.979
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'i_CLK'
+Slack : 1.971
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i_CLK'
+Slack : 9.523
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i_echo'
+Slack : 9.775
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'i_CLK'
+Slack : 6.192
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'i_echo'
+Slack : 12.175
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'i_CLK'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'i_echo'
+Slack : 2.827
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'i_CLK'
+Slack : 14.241
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'i_CLK'
+Slack : 1.819
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i_CLK'
+Slack : 9.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i_echo'
+Slack : 9.782
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'i_CLK'
+Slack : 8.262
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'i_echo'
+Slack : 15.550
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'i_CLK'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'i_echo'
+Slack : 1.628
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'i_CLK'
+Slack : 15.132
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'i_CLK'
+Slack : 0.904
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i_CLK'
+Slack : 9.304
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i_echo'
+Slack : 9.476
+TNS   : 0.000
+
+------------------------------------------------------------
