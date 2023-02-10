@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity RangeSensor is
+	port
+	(
+		fpgaclk		  	: 	in std_logic;
+		pulse	  		: 	in std_logic;
+		triggerOut	  	:	out std_logic;
+		meters	  		: 	out std_logic_vector(3 downto 0);
+		decimeter 		: 	out std_logic_vector(3 downto 0);
+		centimeter 		: 	out std_logic_vector(3 downto 0)
+	);
+end entity;

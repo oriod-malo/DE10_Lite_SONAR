@@ -1,0 +1,7 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity Distance_Calculation is
+	
+end Distance_Calculation;
